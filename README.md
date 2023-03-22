@@ -1,5 +1,5 @@
 # Blog-search
-Executable jar - 다운로드
+Executable jar - [다운로드](https://github.com/sixthou/blog-search/raw/master/src/main/resources/static/blog-search-standalone-0.0.1-SNAPSHOT.jar)
 ## API 명세
 
 ### 블로그 검색
